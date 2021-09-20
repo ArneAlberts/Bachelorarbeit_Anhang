@@ -1,0 +1,214 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +18V
+D Power symbol creates a global label with name "+18V"
+K power-flag
+$ENDCMP
+#
+$CMP 10018783-10200TLF
+D AMPHENOL FCI - 10018783-10200TLF. - CARD EDGE CONNECTOR, RECEPTACLE, 36 POSITION
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10018783.pdf
+$ENDCMP
+#
+$CMP 171826-4
+D Headers & Wire Housings 4P HDR R/A
+F https://componentsearchengine.com/Datasheets/2/171826-4.pdf
+$ENDCMP
+#
+$CMP 174804-1
+D TE Connectivity MATE-N-LOK Series, 5.08mm Pitch 4 Way Right Angle PCB Header, Solder Termination, 13A
+F https://componentsearchengine.com/Datasheets/1/174804-1.pdf
+$ENDCMP
+#
+$CMP 174804-1_PC_Belegung
+D TE Connectivity MATE-N-LOK Series, 5.08mm Pitch 4 Way Right Angle PCB Header, Solder Termination, 13A, PC-Spannungsversorgung
+F https://componentsearchengine.com/Datasheets/1/174804-1.pdf
+$ENDCMP
+#
+$CMP 632723300011
+D USB Connectors WR-COM USB3.1 Type C SuperSpeed+ Rcpt
+F http://katalog.we-online.de/em/datasheet/632723x00011.pdf
+$ENDCMP
+#
+$CMP 830207044109
+D 100MHz Oscillator, 25ppm, 3.3V
+F https://www.mouser.de/datasheet/2/445/830207044109-2005590.pdf
+$ENDCMP
+#
+$CMP ABXS002A3X41-SRZ
+D Non-Isolated DC/DC Converters 8-16Vin 16-34V 2.3A Boost POL Neg Logic
+$ENDCMP
+#
+$CMP AP2303
+D Termination Voltage Regulator for DDR-SDRAM, up 1.75A, 0.6-0.9 Vout,
+F https://www.mouser.de/datasheet/2/115/AP2303-475651.pdf
+$ENDCMP
+#
+$CMP BZX84C3V3
+D Zener diode 3.3V, SOT-23
+K diode
+F https://www.mouser.de/datasheet/2/308/1/BZX84C2V4ET1_D-2310343.pdf
+$ENDCMP
+#
+$CMP FT2232H
+D Hi Speed Double Channel USB UART/FIFO, LQFP/QFN-64
+K FTDI USB Double UART FIFO
+F https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf
+$ENDCMP
+#
+$CMP GND_SHD
+D Power symbol creates a global label with name "GNDPWR" , power ground
+K power-flag
+$ENDCMP
+#
+$CMP IMC_1550_20PM_w_Adapter_PCB
+D IMC 1550-20PM Symbol mit HF-Out und Pin-Header (Bias/PD)
+$ENDCMP
+#
+$CMP IRF4905S
+D -74A Id, -55V Vds, Single P-Channel HEXFET Power MOSFET, 20mOhm Ron,
+K -74A Id, -55V Vds, Single P-Channel HEXFET Power MOSFET, 20mOhm Ron,
+F ~
+$ENDCMP
+#
+$CMP IRF4905S_copy
+D -74A Id, -55V Vds, Single P-Channel HEXFET Power MOSFET, 20mOhm Ron,
+K -74A Id, -55V Vds, Single P-Channel HEXFET Power MOSFET, 20mOhm Ron,
+F ~
+$ENDCMP
+#
+$CMP KSZ8041MLL
+D 10BASE-T/100BASE-TX PHY with MII Support, 25 MHz input clock, 48-Pin LQFP
+K ETH PHY  MII
+F https://ww1.microchip.com/downloads/en/DeviceDoc/00002436B.pdf
+$ENDCMP
+#
+$CMP LTC2607
+D Dual, 16-bit DAC, Rail-to-Rail, external Reference, I2C-Interface, DFN-12 w. EP
+F https://www.analog.com/media/en/technical-documentation/data-sheets/26071727fa.pdf
+$ENDCMP
+#
+$CMP LTC2617
+D Dual, 14-bit DAC, Rail-to-Rail, external Reference, I2C-Interface, DFN-12 w. EP
+F https://www.analog.com/media/en/technical-documentation/data-sheets/26071727fa.pdf
+$ENDCMP
+#
+$CMP LTC2627
+D Dual, 12-bit DAC, Rail-to-Rail, external Reference, I2C-Interface, DFN-12 w. EP
+F https://www.analog.com/media/en/technical-documentation/data-sheets/26071727fa.pdf
+$ENDCMP
+#
+$CMP MSP430F5510IRGCR
+D MIXED SIGNAL MICROCONTROLLER
+F http://www.ti.com/lit/gpn/msp430f5510
+$ENDCMP
+#
+$CMP MT41K128M16JT
+D 256MB DDR3L, FBGA-96, 1.35V/1.5V
+F https://www.mouser.de/datasheet/2/671/mict_s_a0002296722_1-2290882.pdf
+$ENDCMP
+#
+$CMP MXL7704-XQB-R
+D 4-Ch PMIC + LDO; 5V; 32-QFN;
+F https://www.maxlinear.com/ds/mxl7704.pdf
+$ENDCMP
+#
+$CMP OPA2991
+D Dual Rail-to-Rail Operational Amplifiers, SOIC-8/TSSOP-8/WSON-8
+K dual opamp
+F https://www.ti.com/lit/ds/symlink/opa2991.pdf
+$ENDCMP
+#
+$CMP OPA564
+D High-Current OpAmp (1.5A), 24V, 17MHz, DWP
+F https://www.ti.com/lit/ds/symlink/opa564.pdf
+$ENDCMP
+#
+$CMP REF3112
+D 1.25V 100μA Micropower Precision Voltage Reference, SOT-23
+K Micropower Prevision Voltage Reference 1.25V
+F http://www.ti.com/lit/ds/symlink/ref3240-ep.pdf
+$ENDCMP
+#
+$CMP REF3120
+D 2.048V 100μA Micropower Precision Voltage Reference, SOT-23
+K Micropower Prevision Voltage Reference 2.048V
+F https://www.ti.com/lit/ds/symlink/ref3120.pdf
+$ENDCMP
+#
+$CMP REF3125
+D 2.5V 100μA Micropower Precision Voltage Reference, SOT-23
+K Micropower Prevision Voltage Reference 2.5V
+F http://www.ti.com/lit/ds/symlink/ref3240-ep.pdf
+$ENDCMP
+#
+$CMP REF3130
+D 3V 100μA Micropower Precision Voltage Reference, SOT-23
+K Micropower Prevision Voltage Reference 3V
+F http://www.ti.com/lit/ds/symlink/ref3240-ep.pdf
+$ENDCMP
+#
+$CMP REF3133
+D 3.3V 100μA Micropower Precision Voltage Reference, SOT-23
+K Micropower Prevision Voltage Reference 3.3V
+F http://www.ti.com/lit/ds/symlink/ref3240-ep.pdf
+$ENDCMP
+#
+$CMP REF3140
+D 4.096V 100μA Micropower Precision Voltage Reference, SOT-23
+K Micropower Prevision Voltage Reference 4.096V
+F http://www.ti.com/lit/ds/symlink/ref3240-ep.pdf
+$ENDCMP
+#
+$CMP S25FL128SAGNFA000
+D 128Mb Serial Flash Memory, Standard/Dual/Quad SPI, WSON-8
+K flash memory SPI
+F https://www.cypress.com/file/448601/download
+$ENDCMP
+#
+$CMP SN65220
+D USB port transient suppressors
+K USB suppressor
+F http://www.ti.com/lit/ds/symlink/sn65220.pdf
+$ENDCMP
+#
+$CMP Si3421DV
+D -8A Id, -30V Vds, Single P-Channel MOSFET, 20mOhm Ron,
+K -8A Id, -30V Vds, Single P-Channel HEXFET Power MOSFET, 20mOhm Ron,
+F https://www.mouser.de/datasheet/2/427/si3421dv-1764435.pdf
+$ENDCMP
+#
+$CMP TPS74012
+D LDO, 1.2-6V Vin, don 0.9V Vout, max. 300mV Dropout
+F https://www.ti.com/lit/ds/symlink/tps740.pdf
+$ENDCMP
+#
+$CMP TUSB2046
+D 4-Port USB1.1 HUB with optional serial EEPROM
+K 4-Port, 3.3V, EEPROM, Full Speed, Hub, Texas Instruments, USB1.1
+F https://www.ti.com/lit/ds/symlink/tusb2046b.pdf
+$ENDCMP
+#
+$CMP USB_A_double
+D 2x USB Type A connector stacked
+K connector USB
+F  ~
+$ENDCMP
+#
+$CMP Wuerth_7499011002
+D LAN Transformer Jack, RJ45, 10/100 BaseT
+K lan jack transformer
+F https://www.we-online.de/katalog/datasheet/7499011002A.pdf
+$ENDCMP
+#
+$CMP XMOD_JTAG
+D JTAG-Adapter für Xilinx-FPGA
+$ENDCMP
+#
+$CMP i3A4W008A033V-001R
+D 100W DC/DC; 9-53V Input Voltage; 3.3-16.5V Output Voltage;
+K DC/DC
+F https://www.emea.lambda.tdk.com/de/KB/i3A-Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

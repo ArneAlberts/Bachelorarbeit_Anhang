@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name BA_Lib)(type Legacy)(uri ${KIPRJMOD}/BA_Lib.lib)(options "")(descr ""))
+  (lib (name Bachelorarbeit-rescue)(type Legacy)(uri ${KIPRJMOD}/Bachelorarbeit-rescue.lib)(options "")(descr ""))
+)

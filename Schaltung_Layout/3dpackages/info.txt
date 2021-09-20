@@ -1,0 +1,24 @@
+Quellen:
+
+TE0790: Trenz Elektronik
+174804: mouser (Library Loader)
+ABXS002A3X41: mouser (-||-)
+i3A4-Series: TDK (Webseite)
+Amphenol_10018783_10200TLF: https://www.amphenol-icc.com/pci-express-1001878310200tlf.html
+171826-4: mouser (Library Loader)
+632723300011: mouser (Library Loader)
+WE-CMDC_744237xxx: Würth Elektronik 744237102
+440054-2: mouser (Library Loader)
+BSW-104-X-X: Samtec webseite
+modulator-Body (_lwl): Andreas Wenzel
+7499011002: mouser (Library loader)
+60124102122403: Würth Elektronik
+74438367xxx:	-||-
+CUI_DEVICES_HSE-B20254-035H-01: cuidevices.com / DigiKey
+61400416121: Würth Elektronik
+61400826021: Würth Elektronik
+72309-8014BLFc: Amphenol ICC
+PR_19_20_SE: https://www.alutronic.de/de/products/pcb_montage/pr-1920se/ (DXF-> Step-Format)
+KK_V_4330_N: selbst erstellt nach Datenblatt
+DM3AT-SF-PEJM5: mouser.com (Library Loader)
+XEL4030-122MEC: mouser.com (Library Loader)
